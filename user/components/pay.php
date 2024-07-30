@@ -6,8 +6,6 @@ require("E:/xamppnew/htdocs/GreenGuardians/vendor/razorpay/razorpay/Razorpay.php
 use Razorpay\Api\Api;
 session_start();
 
-// define('RAZORPAY_KEY', 'rzp_test_jBCLQ5UA5KM40Q');
-// define('RAZORPAY_SECRET', 'jFtb1umm0l7kviWadlxsrUI2');
 
 $razorpay = new Api(RAZORPAY_KEY, RAZORPAY_SECRET);
 // echo RAZORPAY_KEY ;
