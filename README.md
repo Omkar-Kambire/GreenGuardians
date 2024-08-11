@@ -46,4 +46,4 @@
 | User | Omkar | 123456 |
 
 ## Authors
-This project was originally created by [Omkar-Kambire](https://github.com/Omkar-Kambire).
+This project was originally created by [Omkar-Kambire](https://github.com/Omkar-Kambire) and [PaddyWebDev](https://github.com/PaddyWebDev).
